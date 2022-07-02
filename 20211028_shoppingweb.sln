@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "20211028_shoppingweb", "..\..\..\Desktop\歷屆上課講義\110網二\20211028_shoppingweb\", "{264725CF-8147-4B8E-8F98-2E995B27BB94}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_35483"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\歷屆上課講義\110網二\20211028_shoppingweb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_35483\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_35483"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\歷屆上課講義\110網二\20211028_shoppingweb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_35483\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "35483"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264725CF-8147-4B8E-8F98-2E995B27BB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264725CF-8147-4B8E-8F98-2E995B27BB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA450764-F2A2-49B9-9AAA-FE8F5509899E}
+	EndGlobalSection
+EndGlobal
